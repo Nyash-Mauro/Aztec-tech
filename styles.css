@@ -1,0 +1,86 @@
+*{
+    font-family: cursive;
+    
+}
+nav-bar{
+    text-decoration: none;
+    display: sticky;
+}
+
+nav ul {
+    list-style: none;
+    margin: none;
+    padding: 0;
+    background-color: none;
+    margin-bottom: 0px;
+    font-family: cursive;
+}
+
+nav li {
+    float: right;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+nav li a {
+    display: inline-block;
+    font-size: x-large;
+    color: black;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-family: fantasy;
+}
+ul li a:hover {
+    color:rgb(28, 13, 228);
+    border-collapse: separate;
+    border-radius: 0px;
+    border-radius: 10%;
+    background-color: rgb(209, 224, 223);
+}
+.logo{
+    font-size: 40px;
+    font-weight: bold;
+    color:rgb(236, 68, 26);
+    margin-left: 20px;
+    padding-left: 5%;
+    padding-top: 0%;
+    border-bottom: 1px;
+}
+.logo:hover{
+    color:rgb(28, 13, 228) ;
+    text-transform: uppercase;
+    font: outline;
+    animation-name: initial;
+}
+h1{
+    text-align: center;
+    color:rgb(236, 68, 26);
+    text-decoration: underline;
+}
+.fa{
+    background:rgb(236, 240, 240) ;
+    color:black;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    color: blueviolet;
+}
+.contact-link{
+    font-family: monospace;
+    font-size: 23px;
+    text-decoration: solid;
+}
+h3{
+    text-decoration: underline;
+    font-family: fantasy;
+}
+
